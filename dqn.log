@@ -1,0 +1,1001 @@
+<<<<<<<<< Episode1
+episode:1,reward_sum:10.0
+<<<<<<<<< Episode2
+episode:2,reward_sum:10.0
+<<<<<<<<< Episode3
+episode:3,reward_sum:9.0
+<<<<<<<<< Episode4
+episode:4,reward_sum:10.0
+<<<<<<<<< Episode5
+episode:5,reward_sum:10.0
+<<<<<<<<< Episode6
+episode:6,reward_sum:10.0
+<<<<<<<<< Episode7
+episode:7,reward_sum:9.0
+<<<<<<<<< Episode8
+episode:8,reward_sum:11.0
+<<<<<<<<< Episode9
+episode:9,reward_sum:8.0
+<<<<<<<<< Episode10
+episode:10,reward_sum:15.0
+<<<<<<<<< Episode11
+episode:11,reward_sum:9.0
+<<<<<<<<< Episode12
+episode:12,reward_sum:11.0
+<<<<<<<<< Episode13
+episode:13,reward_sum:9.0
+<<<<<<<<< Episode14
+episode:14,reward_sum:9.0
+<<<<<<<<< Episode15
+episode:15,reward_sum:11.0
+<<<<<<<<< Episode16
+episode:16,reward_sum:9.0
+<<<<<<<<< Episode17
+episode:17,reward_sum:10.0
+<<<<<<<<< Episode18
+episode:18,reward_sum:11.0
+<<<<<<<<< Episode19
+episode:19,reward_sum:9.0
+<<<<<<<<< Episode20
+episode:20,reward_sum:10.0
+<<<<<<<<< Episode21
+episode:21,reward_sum:10.0
+<<<<<<<<< Episode22
+episode:22,reward_sum:9.0
+<<<<<<<<< Episode23
+episode:23,reward_sum:10.0
+<<<<<<<<< Episode24
+episode:24,reward_sum:12.0
+<<<<<<<<< Episode25
+episode:25,reward_sum:9.0
+<<<<<<<<< Episode26
+episode:26,reward_sum:10.0
+<<<<<<<<< Episode27
+episode:27,reward_sum:10.0
+<<<<<<<<< Episode28
+episode:28,reward_sum:9.0
+<<<<<<<<< Episode29
+episode:29,reward_sum:9.0
+<<<<<<<<< Episode30
+episode:30,reward_sum:10.0
+<<<<<<<<< Episode31
+episode:31,reward_sum:10.0
+<<<<<<<<< Episode32
+episode:32,reward_sum:11.0
+<<<<<<<<< Episode33
+episode:33,reward_sum:11.0
+<<<<<<<<< Episode34
+episode:34,reward_sum:10.0
+<<<<<<<<< Episode35
+episode:35,reward_sum:9.0
+<<<<<<<<< Episode36
+episode:36,reward_sum:11.0
+<<<<<<<<< Episode37
+episode:37,reward_sum:9.0
+<<<<<<<<< Episode38
+episode:38,reward_sum:9.0
+<<<<<<<<< Episode39
+episode:39,reward_sum:10.0
+<<<<<<<<< Episode40
+episode:40,reward_sum:11.0
+<<<<<<<<< Episode41
+episode:41,reward_sum:11.0
+<<<<<<<<< Episode42
+episode:42,reward_sum:10.0
+<<<<<<<<< Episode43
+episode:43,reward_sum:10.0
+<<<<<<<<< Episode44
+episode:44,reward_sum:9.0
+<<<<<<<<< Episode45
+episode:45,reward_sum:11.0
+<<<<<<<<< Episode46
+episode:46,reward_sum:10.0
+<<<<<<<<< Episode47
+episode:47,reward_sum:10.0
+<<<<<<<<< Episode48
+episode:48,reward_sum:9.0
+<<<<<<<<< Episode49
+episode:49,reward_sum:8.0
+<<<<<<<<< Episode50
+episode:50,reward_sum:9.0
+<<<<<<<<< Episode51
+episode:51,reward_sum:10.0
+<<<<<<<<< Episode52
+episode:52,reward_sum:13.0
+<<<<<<<<< Episode53
+episode:53,reward_sum:9.0
+<<<<<<<<< Episode54
+episode:54,reward_sum:10.0
+<<<<<<<<< Episode55
+episode:55,reward_sum:11.0
+<<<<<<<<< Episode56
+episode:56,reward_sum:26.0
+<<<<<<<<< Episode57
+episode:57,reward_sum:10.0
+<<<<<<<<< Episode58
+episode:58,reward_sum:15.0
+<<<<<<<<< Episode59
+episode:59,reward_sum:34.0
+<<<<<<<<< Episode60
+episode:60,reward_sum:29.0
+<<<<<<<<< Episode61
+episode:61,reward_sum:13.0
+<<<<<<<<< Episode62
+episode:62,reward_sum:17.0
+<<<<<<<<< Episode63
+episode:63,reward_sum:15.0
+<<<<<<<<< Episode64
+episode:64,reward_sum:16.0
+<<<<<<<<< Episode65
+episode:65,reward_sum:73.0
+<<<<<<<<< Episode66
+episode:66,reward_sum:29.0
+<<<<<<<<< Episode67
+episode:67,reward_sum:27.0
+<<<<<<<<< Episode68
+episode:68,reward_sum:27.0
+<<<<<<<<< Episode69
+episode:69,reward_sum:57.0
+<<<<<<<<< Episode70
+episode:70,reward_sum:109.0
+<<<<<<<<< Episode71
+episode:71,reward_sum:151.0
+<<<<<<<<< Episode72
+episode:72,reward_sum:109.0
+<<<<<<<<< Episode73
+episode:73,reward_sum:206.0
+<<<<<<<<< Episode74
+episode:74,reward_sum:355.0
+<<<<<<<<< Episode75
+episode:75,reward_sum:1041.0
+<<<<<<<<< Episode76
+episode:76,reward_sum:634.0
+<<<<<<<<< Episode77
+episode:77,reward_sum:1467.0
+<<<<<<<<< Episode78
+episode:78,reward_sum:1083.0
+<<<<<<<<< Episode79
+episode:79,reward_sum:1197.0
+<<<<<<<<< Episode80
+episode:80,reward_sum:2046.0
+<<<<<<<<< Episode81
+episode:81,reward_sum:779.0
+<<<<<<<<< Episode82
+episode:82,reward_sum:906.0
+<<<<<<<<< Episode83
+episode:83,reward_sum:786.0
+<<<<<<<<< Episode84
+episode:84,reward_sum:2231.0
+<<<<<<<<< Episode85
+episode:85,reward_sum:634.0
+<<<<<<<<< Episode86
+episode:86,reward_sum:952.0
+<<<<<<<<< Episode87
+episode:87,reward_sum:974.0
+<<<<<<<<< Episode88
+episode:88,reward_sum:1267.0
+<<<<<<<<< Episode89
+episode:89,reward_sum:1104.0
+<<<<<<<<< Episode90
+episode:90,reward_sum:2348.0
+<<<<<<<<< Episode91
+episode:91,reward_sum:1087.0
+<<<<<<<<< Episode92
+episode:92,reward_sum:760.0
+<<<<<<<<< Episode93
+episode:93,reward_sum:522.0
+<<<<<<<<< Episode94
+episode:94,reward_sum:805.0
+<<<<<<<<< Episode95
+episode:95,reward_sum:6025.0
+<<<<<<<<< Episode96
+episode:96,reward_sum:1066.0
+<<<<<<<<< Episode97
+episode:97,reward_sum:5597.0
+<<<<<<<<< Episode98
+episode:98,reward_sum:2538.0
+<<<<<<<<< Episode99
+episode:99,reward_sum:2019.0
+<<<<<<<<< Episode100
+episode:100,reward_sum:633.0
+<<<<<<<<< Episode101
+episode:101,reward_sum:3467.0
+<<<<<<<<< Episode102
+episode:102,reward_sum:2445.0
+<<<<<<<<< Episode103
+episode:103,reward_sum:912.0
+<<<<<<<<< Episode104
+episode:104,reward_sum:1169.0
+<<<<<<<<< Episode105
+episode:105,reward_sum:2061.0
+<<<<<<<<< Episode106
+episode:106,reward_sum:1153.0
+<<<<<<<<< Episode107
+episode:107,reward_sum:1311.0
+<<<<<<<<< Episode108
+episode:108,reward_sum:781.0
+<<<<<<<<< Episode109
+episode:109,reward_sum:625.0
+<<<<<<<<< Episode110
+episode:110,reward_sum:2449.0
+<<<<<<<<< Episode111
+episode:111,reward_sum:984.0
+<<<<<<<<< Episode112
+episode:112,reward_sum:1678.0
+<<<<<<<<< Episode113
+episode:113,reward_sum:1012.0
+<<<<<<<<< Episode114
+episode:114,reward_sum:683.0
+<<<<<<<<< Episode115
+episode:115,reward_sum:1329.0
+<<<<<<<<< Episode116
+episode:116,reward_sum:1301.0
+<<<<<<<<< Episode117
+episode:117,reward_sum:3179.0
+<<<<<<<<< Episode118
+episode:118,reward_sum:745.0
+<<<<<<<<< Episode119
+episode:119,reward_sum:668.0
+<<<<<<<<< Episode120
+episode:120,reward_sum:1296.0
+<<<<<<<<< Episode121
+episode:121,reward_sum:2827.0
+<<<<<<<<< Episode122
+episode:122,reward_sum:1193.0
+<<<<<<<<< Episode123
+episode:123,reward_sum:1035.0
+<<<<<<<<< Episode124
+episode:124,reward_sum:1555.0
+<<<<<<<<< Episode125
+episode:125,reward_sum:1089.0
+<<<<<<<<< Episode126
+episode:126,reward_sum:1102.0
+<<<<<<<<< Episode127
+episode:127,reward_sum:2005.0
+<<<<<<<<< Episode128
+episode:128,reward_sum:1181.0
+<<<<<<<<< Episode129
+episode:129,reward_sum:727.0
+<<<<<<<<< Episode130
+episode:130,reward_sum:1054.0
+<<<<<<<<< Episode131
+episode:131,reward_sum:1684.0
+<<<<<<<<< Episode132
+episode:132,reward_sum:1080.0
+<<<<<<<<< Episode133
+episode:133,reward_sum:2511.0
+<<<<<<<<< Episode134
+episode:134,reward_sum:1616.0
+<<<<<<<<< Episode135
+episode:135,reward_sum:1006.0
+<<<<<<<<< Episode136
+episode:136,reward_sum:1874.0
+<<<<<<<<< Episode137
+episode:137,reward_sum:842.0
+<<<<<<<<< Episode138
+episode:138,reward_sum:721.0
+<<<<<<<<< Episode139
+episode:139,reward_sum:3406.0
+<<<<<<<<< Episode140
+episode:140,reward_sum:870.0
+<<<<<<<<< Episode141
+episode:141,reward_sum:1011.0
+<<<<<<<<< Episode142
+episode:142,reward_sum:1157.0
+<<<<<<<<< Episode143
+episode:143,reward_sum:1785.0
+<<<<<<<<< Episode144
+episode:144,reward_sum:1041.0
+<<<<<<<<< Episode145
+episode:145,reward_sum:1550.0
+<<<<<<<<< Episode146
+episode:146,reward_sum:1362.0
+<<<<<<<<< Episode147
+episode:147,reward_sum:1510.0
+<<<<<<<<< Episode148
+episode:148,reward_sum:915.0
+<<<<<<<<< Episode149
+episode:149,reward_sum:1118.0
+<<<<<<<<< Episode150
+episode:150,reward_sum:1592.0
+<<<<<<<<< Episode151
+episode:151,reward_sum:827.0
+<<<<<<<<< Episode152
+episode:152,reward_sum:1167.0
+<<<<<<<<< Episode153
+episode:153,reward_sum:1378.0
+<<<<<<<<< Episode154
+episode:154,reward_sum:1684.0
+<<<<<<<<< Episode155
+episode:155,reward_sum:1921.0
+<<<<<<<<< Episode156
+episode:156,reward_sum:694.0
+<<<<<<<<< Episode157
+episode:157,reward_sum:3825.0
+<<<<<<<<< Episode158
+episode:158,reward_sum:1460.0
+<<<<<<<<< Episode159
+episode:159,reward_sum:918.0
+<<<<<<<<< Episode160
+episode:160,reward_sum:669.0
+<<<<<<<<< Episode161
+episode:161,reward_sum:1153.0
+<<<<<<<<< Episode162
+episode:162,reward_sum:476.0
+<<<<<<<<< Episode163
+episode:163,reward_sum:1086.0
+<<<<<<<<< Episode164
+episode:164,reward_sum:680.0
+<<<<<<<<< Episode165
+episode:165,reward_sum:925.0
+<<<<<<<<< Episode166
+episode:166,reward_sum:3641.0
+<<<<<<<<< Episode167
+episode:167,reward_sum:2754.0
+<<<<<<<<< Episode168
+episode:168,reward_sum:1036.0
+<<<<<<<<< Episode169
+episode:169,reward_sum:1481.0
+<<<<<<<<< Episode170
+episode:170,reward_sum:2372.0
+<<<<<<<<< Episode171
+episode:171,reward_sum:2869.0
+<<<<<<<<< Episode172
+episode:172,reward_sum:1723.0
+<<<<<<<<< Episode173
+episode:173,reward_sum:1214.0
+<<<<<<<<< Episode174
+episode:174,reward_sum:2076.0
+<<<<<<<<< Episode175
+episode:175,reward_sum:4888.0
+<<<<<<<<< Episode176
+episode:176,reward_sum:882.0
+<<<<<<<<< Episode177
+episode:177,reward_sum:2116.0
+<<<<<<<<< Episode178
+episode:178,reward_sum:1055.0
+<<<<<<<<< Episode179
+episode:179,reward_sum:1300.0
+<<<<<<<<< Episode180
+episode:180,reward_sum:869.0
+<<<<<<<<< Episode181
+episode:181,reward_sum:825.0
+<<<<<<<<< Episode182
+episode:182,reward_sum:1203.0
+<<<<<<<<< Episode183
+episode:183,reward_sum:1217.0
+<<<<<<<<< Episode184
+episode:184,reward_sum:799.0
+<<<<<<<<< Episode185
+episode:185,reward_sum:829.0
+<<<<<<<<< Episode186
+episode:186,reward_sum:1297.0
+<<<<<<<<< Episode187
+episode:187,reward_sum:1616.0
+<<<<<<<<< Episode188
+episode:188,reward_sum:1243.0
+<<<<<<<<< Episode189
+episode:189,reward_sum:2443.0
+<<<<<<<<< Episode190
+episode:190,reward_sum:2754.0
+<<<<<<<<< Episode191
+episode:191,reward_sum:2459.0
+<<<<<<<<< Episode192
+episode:192,reward_sum:1223.0
+<<<<<<<<< Episode193
+episode:193,reward_sum:858.0
+<<<<<<<<< Episode194
+episode:194,reward_sum:890.0
+<<<<<<<<< Episode195
+episode:195,reward_sum:1240.0
+<<<<<<<<< Episode196
+episode:196,reward_sum:2747.0
+<<<<<<<<< Episode197
+episode:197,reward_sum:1422.0
+<<<<<<<<< Episode198
+episode:198,reward_sum:6583.0
+<<<<<<<<< Episode199
+episode:199,reward_sum:3645.0
+<<<<<<<<< Episode200
+episode:200,reward_sum:1040.0
+<<<<<<<<< Episode201
+episode:201,reward_sum:1212.0
+<<<<<<<<< Episode202
+episode:202,reward_sum:860.0
+<<<<<<<<< Episode203
+episode:203,reward_sum:1536.0
+<<<<<<<<< Episode204
+episode:204,reward_sum:1259.0
+<<<<<<<<< Episode205
+episode:205,reward_sum:893.0
+<<<<<<<<< Episode206
+episode:206,reward_sum:1678.0
+<<<<<<<<< Episode207
+episode:207,reward_sum:3175.0
+<<<<<<<<< Episode208
+episode:208,reward_sum:1652.0
+<<<<<<<<< Episode209
+episode:209,reward_sum:708.0
+<<<<<<<<< Episode210
+episode:210,reward_sum:1439.0
+<<<<<<<<< Episode211
+episode:211,reward_sum:868.0
+<<<<<<<<< Episode212
+episode:212,reward_sum:76.0
+<<<<<<<<< Episode213
+episode:213,reward_sum:737.0
+<<<<<<<<< Episode214
+episode:214,reward_sum:843.0
+<<<<<<<<< Episode215
+episode:215,reward_sum:3941.0
+<<<<<<<<< Episode216
+episode:216,reward_sum:2603.0
+<<<<<<<<< Episode217
+episode:217,reward_sum:689.0
+<<<<<<<<< Episode218
+episode:218,reward_sum:1117.0
+<<<<<<<<< Episode219
+episode:219,reward_sum:1818.0
+<<<<<<<<< Episode220
+episode:220,reward_sum:924.0
+<<<<<<<<< Episode221
+episode:221,reward_sum:2282.0
+<<<<<<<<< Episode222
+episode:222,reward_sum:1054.0
+<<<<<<<<< Episode223
+episode:223,reward_sum:1084.0
+<<<<<<<<< Episode224
+episode:224,reward_sum:2074.0
+<<<<<<<<< Episode225
+episode:225,reward_sum:3864.0
+<<<<<<<<< Episode226
+episode:226,reward_sum:1452.0
+<<<<<<<<< Episode227
+episode:227,reward_sum:840.0
+<<<<<<<<< Episode228
+episode:228,reward_sum:690.0
+<<<<<<<<< Episode229
+episode:229,reward_sum:1216.0
+<<<<<<<<< Episode230
+episode:230,reward_sum:3933.0
+<<<<<<<<< Episode231
+episode:231,reward_sum:1994.0
+<<<<<<<<< Episode232
+episode:232,reward_sum:601.0
+<<<<<<<<< Episode233
+episode:233,reward_sum:1160.0
+<<<<<<<<< Episode234
+episode:234,reward_sum:1546.0
+<<<<<<<<< Episode235
+episode:235,reward_sum:2819.0
+<<<<<<<<< Episode236
+episode:236,reward_sum:3397.0
+<<<<<<<<< Episode237
+episode:237,reward_sum:2009.0
+<<<<<<<<< Episode238
+episode:238,reward_sum:983.0
+<<<<<<<<< Episode239
+episode:239,reward_sum:3602.0
+<<<<<<<<< Episode240
+episode:240,reward_sum:1032.0
+<<<<<<<<< Episode241
+episode:241,reward_sum:862.0
+<<<<<<<<< Episode242
+episode:242,reward_sum:763.0
+<<<<<<<<< Episode243
+episode:243,reward_sum:1926.0
+<<<<<<<<< Episode244
+episode:244,reward_sum:2331.0
+<<<<<<<<< Episode245
+episode:245,reward_sum:616.0
+<<<<<<<<< Episode246
+episode:246,reward_sum:3868.0
+<<<<<<<<< Episode247
+episode:247,reward_sum:1654.0
+<<<<<<<<< Episode248
+episode:248,reward_sum:1128.0
+<<<<<<<<< Episode249
+episode:249,reward_sum:1684.0
+<<<<<<<<< Episode250
+episode:250,reward_sum:2871.0
+<<<<<<<<< Episode251
+episode:251,reward_sum:1967.0
+<<<<<<<<< Episode252
+episode:252,reward_sum:1498.0
+<<<<<<<<< Episode253
+episode:253,reward_sum:1199.0
+<<<<<<<<< Episode254
+episode:254,reward_sum:3451.0
+<<<<<<<<< Episode255
+episode:255,reward_sum:940.0
+<<<<<<<<< Episode256
+episode:256,reward_sum:1028.0
+<<<<<<<<< Episode257
+episode:257,reward_sum:86.0
+<<<<<<<<< Episode258
+episode:258,reward_sum:760.0
+<<<<<<<<< Episode259
+episode:259,reward_sum:720.0
+<<<<<<<<< Episode260
+episode:260,reward_sum:510.0
+<<<<<<<<< Episode261
+episode:261,reward_sum:1562.0
+<<<<<<<<< Episode262
+episode:262,reward_sum:1455.0
+<<<<<<<<< Episode263
+episode:263,reward_sum:1219.0
+<<<<<<<<< Episode264
+episode:264,reward_sum:1405.0
+<<<<<<<<< Episode265
+episode:265,reward_sum:1143.0
+<<<<<<<<< Episode266
+episode:266,reward_sum:1078.0
+<<<<<<<<< Episode267
+episode:267,reward_sum:1222.0
+<<<<<<<<< Episode268
+episode:268,reward_sum:1807.0
+<<<<<<<<< Episode269
+episode:269,reward_sum:864.0
+<<<<<<<<< Episode270
+episode:270,reward_sum:974.0
+<<<<<<<<< Episode271
+episode:271,reward_sum:1394.0
+<<<<<<<<< Episode272
+episode:272,reward_sum:1033.0
+<<<<<<<<< Episode273
+episode:273,reward_sum:736.0
+<<<<<<<<< Episode274
+episode:274,reward_sum:1020.0
+<<<<<<<<< Episode275
+episode:275,reward_sum:626.0
+<<<<<<<<< Episode276
+episode:276,reward_sum:960.0
+<<<<<<<<< Episode277
+episode:277,reward_sum:627.0
+<<<<<<<<< Episode278
+episode:278,reward_sum:1624.0
+<<<<<<<<< Episode279
+episode:279,reward_sum:1047.0
+<<<<<<<<< Episode280
+episode:280,reward_sum:2358.0
+<<<<<<<<< Episode281
+episode:281,reward_sum:1510.0
+<<<<<<<<< Episode282
+episode:282,reward_sum:1662.0
+<<<<<<<<< Episode283
+episode:283,reward_sum:757.0
+<<<<<<<<< Episode284
+episode:284,reward_sum:1109.0
+<<<<<<<<< Episode285
+episode:285,reward_sum:537.0
+<<<<<<<<< Episode286
+episode:286,reward_sum:1311.0
+<<<<<<<<< Episode287
+episode:287,reward_sum:795.0
+<<<<<<<<< Episode288
+episode:288,reward_sum:1175.0
+<<<<<<<<< Episode289
+episode:289,reward_sum:2008.0
+<<<<<<<<< Episode290
+episode:290,reward_sum:1335.0
+<<<<<<<<< Episode291
+episode:291,reward_sum:1832.0
+<<<<<<<<< Episode292
+episode:292,reward_sum:3004.0
+<<<<<<<<< Episode293
+episode:293,reward_sum:965.0
+<<<<<<<<< Episode294
+episode:294,reward_sum:1208.0
+<<<<<<<<< Episode295
+episode:295,reward_sum:1068.0
+<<<<<<<<< Episode296
+episode:296,reward_sum:2303.0
+<<<<<<<<< Episode297
+episode:297,reward_sum:833.0
+<<<<<<<<< Episode298
+episode:298,reward_sum:1647.0
+<<<<<<<<< Episode299
+episode:299,reward_sum:1264.0
+<<<<<<<<< Episode300
+episode:300,reward_sum:1548.0
+<<<<<<<<< Episode301
+episode:301,reward_sum:2165.0
+<<<<<<<<< Episode302
+episode:302,reward_sum:2568.0
+<<<<<<<<< Episode303
+episode:303,reward_sum:1304.0
+<<<<<<<<< Episode304
+episode:304,reward_sum:725.0
+<<<<<<<<< Episode305
+episode:305,reward_sum:1206.0
+<<<<<<<<< Episode306
+episode:306,reward_sum:743.0
+<<<<<<<<< Episode307
+episode:307,reward_sum:2351.0
+<<<<<<<<< Episode308
+episode:308,reward_sum:483.0
+<<<<<<<<< Episode309
+episode:309,reward_sum:3088.0
+<<<<<<<<< Episode310
+episode:310,reward_sum:972.0
+<<<<<<<<< Episode311
+episode:311,reward_sum:840.0
+<<<<<<<<< Episode312
+episode:312,reward_sum:904.0
+<<<<<<<<< Episode313
+episode:313,reward_sum:918.0
+<<<<<<<<< Episode314
+episode:314,reward_sum:3240.0
+<<<<<<<<< Episode315
+episode:315,reward_sum:2085.0
+<<<<<<<<< Episode316
+episode:316,reward_sum:1079.0
+<<<<<<<<< Episode317
+episode:317,reward_sum:1232.0
+<<<<<<<<< Episode318
+episode:318,reward_sum:1160.0
+<<<<<<<<< Episode319
+episode:319,reward_sum:1122.0
+<<<<<<<<< Episode320
+episode:320,reward_sum:734.0
+<<<<<<<<< Episode321
+episode:321,reward_sum:1528.0
+<<<<<<<<< Episode322
+episode:322,reward_sum:3534.0
+<<<<<<<<< Episode323
+episode:323,reward_sum:1269.0
+<<<<<<<<< Episode324
+episode:324,reward_sum:843.0
+<<<<<<<<< Episode325
+episode:325,reward_sum:1375.0
+<<<<<<<<< Episode326
+episode:326,reward_sum:930.0
+<<<<<<<<< Episode327
+episode:327,reward_sum:925.0
+<<<<<<<<< Episode328
+episode:328,reward_sum:1505.0
+<<<<<<<<< Episode329
+episode:329,reward_sum:2047.0
+<<<<<<<<< Episode330
+episode:330,reward_sum:2623.0
+<<<<<<<<< Episode331
+episode:331,reward_sum:641.0
+<<<<<<<<< Episode332
+episode:332,reward_sum:1132.0
+<<<<<<<<< Episode333
+episode:333,reward_sum:594.0
+<<<<<<<<< Episode334
+episode:334,reward_sum:677.0
+<<<<<<<<< Episode335
+episode:335,reward_sum:989.0
+<<<<<<<<< Episode336
+episode:336,reward_sum:2096.0
+<<<<<<<<< Episode337
+episode:337,reward_sum:629.0
+<<<<<<<<< Episode338
+episode:338,reward_sum:2038.0
+<<<<<<<<< Episode339
+episode:339,reward_sum:1660.0
+<<<<<<<<< Episode340
+episode:340,reward_sum:1253.0
+<<<<<<<<< Episode341
+episode:341,reward_sum:1020.0
+<<<<<<<<< Episode342
+episode:342,reward_sum:1054.0
+<<<<<<<<< Episode343
+episode:343,reward_sum:4464.0
+<<<<<<<<< Episode344
+episode:344,reward_sum:1768.0
+<<<<<<<<< Episode345
+episode:345,reward_sum:2518.0
+<<<<<<<<< Episode346
+episode:346,reward_sum:2297.0
+<<<<<<<<< Episode347
+episode:347,reward_sum:909.0
+<<<<<<<<< Episode348
+episode:348,reward_sum:511.0
+<<<<<<<<< Episode349
+episode:349,reward_sum:1589.0
+<<<<<<<<< Episode350
+episode:350,reward_sum:849.0
+<<<<<<<<< Episode351
+episode:351,reward_sum:1284.0
+<<<<<<<<< Episode352
+episode:352,reward_sum:898.0
+<<<<<<<<< Episode353
+episode:353,reward_sum:1120.0
+<<<<<<<<< Episode354
+episode:354,reward_sum:1217.0
+<<<<<<<<< Episode355
+episode:355,reward_sum:884.0
+<<<<<<<<< Episode356
+episode:356,reward_sum:754.0
+<<<<<<<<< Episode357
+episode:357,reward_sum:766.0
+<<<<<<<<< Episode358
+episode:358,reward_sum:689.0
+<<<<<<<<< Episode359
+episode:359,reward_sum:1055.0
+<<<<<<<<< Episode360
+episode:360,reward_sum:1882.0
+<<<<<<<<< Episode361
+episode:361,reward_sum:3040.0
+<<<<<<<<< Episode362
+episode:362,reward_sum:2197.0
+<<<<<<<<< Episode363
+episode:363,reward_sum:1594.0
+<<<<<<<<< Episode364
+episode:364,reward_sum:907.0
+<<<<<<<<< Episode365
+episode:365,reward_sum:1728.0
+<<<<<<<<< Episode366
+episode:366,reward_sum:1267.0
+<<<<<<<<< Episode367
+episode:367,reward_sum:2099.0
+<<<<<<<<< Episode368
+episode:368,reward_sum:1184.0
+<<<<<<<<< Episode369
+episode:369,reward_sum:1055.0
+<<<<<<<<< Episode370
+episode:370,reward_sum:1133.0
+<<<<<<<<< Episode371
+episode:371,reward_sum:887.0
+<<<<<<<<< Episode372
+episode:372,reward_sum:3598.0
+<<<<<<<<< Episode373
+episode:373,reward_sum:908.0
+<<<<<<<<< Episode374
+episode:374,reward_sum:951.0
+<<<<<<<<< Episode375
+episode:375,reward_sum:1549.0
+<<<<<<<<< Episode376
+episode:376,reward_sum:1560.0
+<<<<<<<<< Episode377
+episode:377,reward_sum:5140.0
+<<<<<<<<< Episode378
+episode:378,reward_sum:944.0
+<<<<<<<<< Episode379
+episode:379,reward_sum:1553.0
+<<<<<<<<< Episode380
+episode:380,reward_sum:1332.0
+<<<<<<<<< Episode381
+episode:381,reward_sum:1700.0
+<<<<<<<<< Episode382
+episode:382,reward_sum:552.0
+<<<<<<<<< Episode383
+episode:383,reward_sum:1969.0
+<<<<<<<<< Episode384
+episode:384,reward_sum:967.0
+<<<<<<<<< Episode385
+episode:385,reward_sum:2251.0
+<<<<<<<<< Episode386
+episode:386,reward_sum:3748.0
+<<<<<<<<< Episode387
+episode:387,reward_sum:926.0
+<<<<<<<<< Episode388
+episode:388,reward_sum:1698.0
+<<<<<<<<< Episode389
+episode:389,reward_sum:3776.0
+<<<<<<<<< Episode390
+episode:390,reward_sum:426.0
+<<<<<<<<< Episode391
+episode:391,reward_sum:1119.0
+<<<<<<<<< Episode392
+episode:392,reward_sum:747.0
+<<<<<<<<< Episode393
+episode:393,reward_sum:1681.0
+<<<<<<<<< Episode394
+episode:394,reward_sum:969.0
+<<<<<<<<< Episode395
+episode:395,reward_sum:823.0
+<<<<<<<<< Episode396
+episode:396,reward_sum:1432.0
+<<<<<<<<< Episode397
+episode:397,reward_sum:1578.0
+<<<<<<<<< Episode398
+episode:398,reward_sum:2783.0
+<<<<<<<<< Episode399
+episode:399,reward_sum:1058.0
+<<<<<<<<< Episode400
+episode:400,reward_sum:1092.0
+<<<<<<<<< Episode401
+episode:401,reward_sum:3390.0
+<<<<<<<<< Episode402
+episode:402,reward_sum:1841.0
+<<<<<<<<< Episode403
+episode:403,reward_sum:3557.0
+<<<<<<<<< Episode404
+episode:404,reward_sum:1045.0
+<<<<<<<<< Episode405
+episode:405,reward_sum:1266.0
+<<<<<<<<< Episode406
+episode:406,reward_sum:1586.0
+<<<<<<<<< Episode407
+episode:407,reward_sum:1220.0
+<<<<<<<<< Episode408
+episode:408,reward_sum:1682.0
+<<<<<<<<< Episode409
+episode:409,reward_sum:619.0
+<<<<<<<<< Episode410
+episode:410,reward_sum:769.0
+<<<<<<<<< Episode411
+episode:411,reward_sum:1697.0
+<<<<<<<<< Episode412
+episode:412,reward_sum:1601.0
+<<<<<<<<< Episode413
+episode:413,reward_sum:335.0
+<<<<<<<<< Episode414
+episode:414,reward_sum:2235.0
+<<<<<<<<< Episode415
+episode:415,reward_sum:1098.0
+<<<<<<<<< Episode416
+episode:416,reward_sum:1872.0
+<<<<<<<<< Episode417
+episode:417,reward_sum:654.0
+<<<<<<<<< Episode418
+episode:418,reward_sum:1498.0
+<<<<<<<<< Episode419
+episode:419,reward_sum:1129.0
+<<<<<<<<< Episode420
+episode:420,reward_sum:1300.0
+<<<<<<<<< Episode421
+episode:421,reward_sum:1422.0
+<<<<<<<<< Episode422
+episode:422,reward_sum:2572.0
+<<<<<<<<< Episode423
+episode:423,reward_sum:1777.0
+<<<<<<<<< Episode424
+episode:424,reward_sum:800.0
+<<<<<<<<< Episode425
+episode:425,reward_sum:3575.0
+<<<<<<<<< Episode426
+episode:426,reward_sum:1780.0
+<<<<<<<<< Episode427
+episode:427,reward_sum:925.0
+<<<<<<<<< Episode428
+episode:428,reward_sum:1582.0
+<<<<<<<<< Episode429
+episode:429,reward_sum:763.0
+<<<<<<<<< Episode430
+episode:430,reward_sum:4207.0
+<<<<<<<<< Episode431
+episode:431,reward_sum:5426.0
+<<<<<<<<< Episode432
+episode:432,reward_sum:1558.0
+<<<<<<<<< Episode433
+episode:433,reward_sum:1106.0
+<<<<<<<<< Episode434
+episode:434,reward_sum:459.0
+<<<<<<<<< Episode435
+episode:435,reward_sum:955.0
+<<<<<<<<< Episode436
+episode:436,reward_sum:2412.0
+<<<<<<<<< Episode437
+episode:437,reward_sum:697.0
+<<<<<<<<< Episode438
+episode:438,reward_sum:1117.0
+<<<<<<<<< Episode439
+episode:439,reward_sum:3326.0
+<<<<<<<<< Episode440
+episode:440,reward_sum:633.0
+<<<<<<<<< Episode441
+episode:441,reward_sum:875.0
+<<<<<<<<< Episode442
+episode:442,reward_sum:2351.0
+<<<<<<<<< Episode443
+episode:443,reward_sum:1613.0
+<<<<<<<<< Episode444
+episode:444,reward_sum:2202.0
+<<<<<<<<< Episode445
+episode:445,reward_sum:1937.0
+<<<<<<<<< Episode446
+episode:446,reward_sum:1938.0
+<<<<<<<<< Episode447
+episode:447,reward_sum:1485.0
+<<<<<<<<< Episode448
+episode:448,reward_sum:1494.0
+<<<<<<<<< Episode449
+episode:449,reward_sum:639.0
+<<<<<<<<< Episode450
+episode:450,reward_sum:1099.0
+<<<<<<<<< Episode451
+episode:451,reward_sum:2186.0
+<<<<<<<<< Episode452
+episode:452,reward_sum:821.0
+<<<<<<<<< Episode453
+episode:453,reward_sum:1340.0
+<<<<<<<<< Episode454
+episode:454,reward_sum:887.0
+<<<<<<<<< Episode455
+episode:455,reward_sum:1214.0
+<<<<<<<<< Episode456
+episode:456,reward_sum:2252.0
+<<<<<<<<< Episode457
+episode:457,reward_sum:1603.0
+<<<<<<<<< Episode458
+episode:458,reward_sum:860.0
+<<<<<<<<< Episode459
+episode:459,reward_sum:992.0
+<<<<<<<<< Episode460
+episode:460,reward_sum:475.0
+<<<<<<<<< Episode461
+episode:461,reward_sum:421.0
+<<<<<<<<< Episode462
+episode:462,reward_sum:762.0
+<<<<<<<<< Episode463
+episode:463,reward_sum:814.0
+<<<<<<<<< Episode464
+episode:464,reward_sum:684.0
+<<<<<<<<< Episode465
+episode:465,reward_sum:973.0
+<<<<<<<<< Episode466
+episode:466,reward_sum:1324.0
+<<<<<<<<< Episode467
+episode:467,reward_sum:629.0
+<<<<<<<<< Episode468
+episode:468,reward_sum:473.0
+<<<<<<<<< Episode469
+episode:469,reward_sum:619.0
+<<<<<<<<< Episode470
+episode:470,reward_sum:1068.0
+<<<<<<<<< Episode471
+episode:471,reward_sum:1350.0
+<<<<<<<<< Episode472
+episode:472,reward_sum:1480.0
+<<<<<<<<< Episode473
+episode:473,reward_sum:796.0
+<<<<<<<<< Episode474
+episode:474,reward_sum:3085.0
+<<<<<<<<< Episode475
+episode:475,reward_sum:1135.0
+<<<<<<<<< Episode476
+episode:476,reward_sum:1081.0
+<<<<<<<<< Episode477
+episode:477,reward_sum:857.0
+<<<<<<<<< Episode478
+episode:478,reward_sum:841.0
+<<<<<<<<< Episode479
+episode:479,reward_sum:2023.0
+<<<<<<<<< Episode480
+episode:480,reward_sum:1743.0
+<<<<<<<<< Episode481
+episode:481,reward_sum:705.0
+<<<<<<<<< Episode482
+episode:482,reward_sum:1362.0
+<<<<<<<<< Episode483
+episode:483,reward_sum:724.0
+<<<<<<<<< Episode484
+episode:484,reward_sum:1052.0
+<<<<<<<<< Episode485
+episode:485,reward_sum:1314.0
+<<<<<<<<< Episode486
+episode:486,reward_sum:6689.0
+<<<<<<<<< Episode487
+episode:487,reward_sum:1974.0
+<<<<<<<<< Episode488
+episode:488,reward_sum:751.0
+<<<<<<<<< Episode489
+episode:489,reward_sum:1201.0
+<<<<<<<<< Episode490
+episode:490,reward_sum:3298.0
+<<<<<<<<< Episode491
+episode:491,reward_sum:1569.0
+<<<<<<<<< Episode492
+episode:492,reward_sum:1120.0
+<<<<<<<<< Episode493
+episode:493,reward_sum:759.0
+<<<<<<<<< Episode494
+episode:494,reward_sum:1919.0
+<<<<<<<<< Episode495
+episode:495,reward_sum:1150.0
+<<<<<<<<< Episode496
+episode:496,reward_sum:820.0
+<<<<<<<<< Episode497
+episode:497,reward_sum:938.0
+<<<<<<<<< Episode498
+episode:498,reward_sum:1316.0
+<<<<<<<<< Episode499
+episode:499,reward_sum:1488.0
+<<<<<<<<< Episode500
+episode:500,reward_sum:456.0
+Total training time: 26119.36203598976 seconds
