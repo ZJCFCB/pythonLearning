@@ -1,71 +1,73 @@
 import torch
-from torch.autograd import Variable
+import torch.nn as nn
 import numpy as np
-import pylab as pl
-import torch.nn.init as init
+import matplotlib.pyplot as plt
 
 
-dtype = torch.FloatTensor
-input_size, hidden_size, output_size = 7, 6, 1
-epochs = 300
-seq_length = 20
-lr = 0.1
-data_time_steps = np.linspace(2, 10, seq_length + 1)
-data = np.sin(data_time_steps)
-data.resize((seq_length + 1, 1))
-x = Variable(torch.Tensor(data[:-1]).type(dtype), requires_grad=False)
-y = Variable(torch.Tensor(data[1:]).type(dtype), requires_grad=False)
+# 生成一些虚拟的时间序列数据
+time_steps = 10
+input_size = 1
+output_size = 1
+batch_size = 1
+num_epochs = 100
+lr = 0.01
+
+# 生成数据，简单的正弦波
+t = np.linspace(0, 20, 200, dtype=np.float32)
+data = np.sin(t)
+x = []
+y = []
+for i in range(len(data) - time_steps):
+    x.append(data[i:i+time_steps].reshape(-1, input_size))
+    y.append(data[i+time_steps].reshape(-1, output_size))
+
+x = np.array(x)
+y = np.array(y)
+
+# 转换为张量
+x_tensor = torch.from_numpy(x)
+y_tensor = torch.from_numpy(y)
 
 
+# 定义RNN模型
+class RNN(nn.Module):
+    def __init__(self, input_size, hidden_size, output_size):
+        super(RNN, self).__init__()
+        self.rnn = nn.RNN(input_size, hidden_size, batch_first=True)
+        self.fc = nn.Linear(hidden_size, output_size)
 
-w1 = torch.FloatTensor(input_size, 
-hidden_size).type(dtype)
-init.normal(w1, 0.0, 0.4)
-w1 = Variable(w1, requires_grad = True)
-w2 = torch.FloatTensor(hidden_size, output_size).type(dtype)
-init.normal(w2, 0.0, 0.3)
-w2 = Variable(w2, requires_grad = True)
-
-
-def forward(input, context_state, w1, w2):
-       xh = torch.cat((input, context_state), 1)
-       context_state = torch.tanh(xh.mm(w1))
-       out = context_state.mm(w2)
-       return (out, context_state)
+    def forward(self, x):
+        out, _ = self.rnn(x)
+        out = self.fc(out[:, -1, :])
+        return out
 
 
+# 初始化模型、损失函数和优化器
+hidden_size = 32
+model = RNN(input_size, hidden_size, output_size)
+criterion = nn.MSELoss()
+optimizer = torch.optim.Adam(model.parameters(), lr=lr)
 
+# 训练模型
+for epoch in range(num_epochs):
+    outputs = model(x_tensor)
+    loss = criterion(outputs, y_tensor)
 
+    optimizer.zero_grad()
+    loss.backward()
+    optimizer.step()
 
+    if (epoch + 1) % 10 == 0:
+        print(f'Epoch [{epoch+1}/{num_epochs}], Loss: {loss.item():.4f}')
 
-for i in range(epochs):
-   total_loss = 0
-   context_state = Variable(torch.zeros((1, hidden_size)).type(dtype), requires_grad = True)
-   for j in range(x.size(0)):
-      input = x[j:(j+1)]
-      target = y[j:(j+1)]
-      (pred, context_state) = forward(input, context_state, w1, w2)
-      loss = (pred - target).pow(2).sum()/2
-      total_loss += loss
-      loss.backward()
-      w1.data -= lr * w1.grad.data
-      w2.data -= lr * w2.grad.data
-      w1.grad.data.zero_()
-      w2.grad.data.zero_()
-      context_state = Variable(context_state.data)
-   if i % 10 == 0:
-      print("Epoch: {} loss {}".format(i, total_loss.data[0]))
-context_state = Variable(torch.zeros((1, hidden_size)).type(dtype), requires_grad = False)
-predictions = []
-for i in range(x.size(0)):
-   input = x[i:i+1]
-   (pred, context_state) = forward(input, context_state, w1, w2)
-   context_state = context_state
-   predictions.append(pred.data.numpy().ravel()[0])
+# 预测
+with torch.no_grad():
+    test_x = x_tensor[-1].unsqueeze(0)
+    predict = model(test_x)
+    print(f"预测值: {predict.item():.4f}")
 
-
-
-pl.scatter(data_time_steps[:-1], x.data.numpy(), s = 90, label = "Actual")
-pl.scatter(data_time_steps[1:], predictions, label = "Predicted")
-pl.legend()
-plt.savefig("./"+"rnntext"+".png")
+# 绘图（可选）
+plt.plot(t, data, label='原始数据')
+plt.plot(t[-1], predict.item(), 'ro', label='预测点')
+plt.legend()
+plt.show()
